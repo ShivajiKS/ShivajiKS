@@ -23,17 +23,16 @@ A Frontend Developer
 I am Shivaji, a self-taught frontend React developer based in Hyderabad, India. Born and raised in Andhra Pradesh, I am motivated, enthusiastic, and always up for new challenges. With a strong background in JavaScript, TypeScript, ReactJS, NextJS, React Native, TailwindCSS and Node, I have a keen eye for design, user experience, and accessibility. My great ability to convert Figma designs into fully functional, SEO-optimized and performant websites. ensuring that my projects not only look great but are intuitive and accessible to all users.
 
 * 🌍  I'm based in Hyderabad, India
-* 🖥️  See my portfolio at [shivaji.vercel.app/](http://shivaji.vercel.app/)
+* 🖥️  See my portfolio at [shivajik.dev/](https://www.shivajik.dev/)
 * ✉️  You can contact me at [shivajikv55@gmail.com](mailto:shivajikv55@gmail.com)
-* 🚀  I'm currently working on [Ecommerce website](http://ecommerce-olive-pi.vercel.app/)
 
 ## SKILLS
 - HTML.
 - CSS.
 - JavaScript.
-- React Js.
+- ReactJS.
 - TypeScript.
-- Next Js.
+- Next.js.
 - React Native.
 - Tailwind Css.
 - Framer Motion.
@@ -50,3 +49,4 @@ I am Shivaji, a self-taught frontend React developer based in Hyderabad, India. 
 - Jest.
 - React Testing Library.
 - Playwright.
+- AWS S3, CloudFront, EC2, VPC.
